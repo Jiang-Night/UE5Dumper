@@ -47,4 +47,9 @@ Unreal Engine 5 Dumper for Android Devices, Generate Structure SDK of Supported 
 - Drag ndk-build from NDK in Shell or CMD and then Execute
 - Output will be in libs Folder.
 
+## End
+The project is modified according to the large project of kp7742 [project link]([https://markdown.com.cn ](https://github.com/kp7742/UE4Dumper))
+This project is jointly completed by JiangNight (Sixi) and Xiaohei
+Project Credits: Xiao Hei
+
 
