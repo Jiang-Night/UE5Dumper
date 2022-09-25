@@ -119,8 +119,8 @@ namespace Offsets {
         UPropertyToPropertyFlags = 0x40;
         UPropertyToOffsetInternal = 0x4C;
         //Class: UFunction
-        UFunctionToFunctionFlags = 0xC0;
-        UFunctionToFunc = 0xE8;
+         UFunctionToFunctionFlags = 0xB0;
+        UFunctionToFunc = 0xD8;
         //Class: UBoolProperty
         UBoolPropertyToFieldSize = 0x78;
         UBoolPropertyToByteOffset = 0x79;
@@ -168,8 +168,8 @@ namespace Offsets {
         UStructToSuperStruct = 0x30;
         UStructToChildren = 0x38;
         //Class: UFunction
-        UFunctionToFunctionFlags = 0x88;
-        UFunctionToFunc = 0xB0;
+        UFunctionToFunctionFlags = 0xB0;
+        UFunctionToFunc = 0xD8;
         //Class: UProperty
         UPropertyToElementSize = 0x34;
         UPropertyToPropertyFlags = 0x38;
